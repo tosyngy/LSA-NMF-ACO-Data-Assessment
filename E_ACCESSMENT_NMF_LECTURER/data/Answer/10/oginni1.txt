@@ -1,0 +1,1 @@
+is a gadget that is use to accept data from user, process the data and generate output that can be reused

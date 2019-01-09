@@ -1,0 +1,1 @@
+java -jar dist/E_ACCESSMENT_NMF_LECTURER.jar

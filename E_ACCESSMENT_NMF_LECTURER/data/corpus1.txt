@@ -1,0 +1,9 @@
+computer:system::machine:device
+electronic:electromechanical::device:machine 
+electronic:electromechanical::accept:receive
+compute:analysis::process:processes
+output:result::generate:output
+produce:result::give:output
+creating:create::process:processes
+mobile:portable::small:mini
+accept:input::enter:supply

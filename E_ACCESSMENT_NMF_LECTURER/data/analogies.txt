@@ -1,0 +1,2 @@
+files\computer_1.txt:files\computer.txt
+files\data1_1.txt:files\data1.txt

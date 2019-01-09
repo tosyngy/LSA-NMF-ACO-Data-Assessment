@@ -1,0 +1,2 @@
+data4/alvey_sentences.txt
+data4/atis_sentences.txt
